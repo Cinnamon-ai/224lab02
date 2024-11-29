@@ -208,3 +208,4 @@ Emoji:
 :mask: 
 
 To add the symbol, you can use the insert symbol to find the character and copy it to the README file.
+652236253 Nattapong Jirathiwat
